@@ -222,13 +222,13 @@ const SecondPage = () => (
             </div>
             <div className="go-buttons">
               <a href="index.html" className="go-previous flat-button">
-                Previous: Graphene
+                Previous: NewPage
               </a>
               <a
                 href="incremental-adoption.html"
                 className="go-next flat-button primary"
               >
-                Next: Incremental adoption
+                Next: UpdatedPage
               </a>
             </div>
           </div>
