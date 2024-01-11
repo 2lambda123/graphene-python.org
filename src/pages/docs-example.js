@@ -217,7 +217,7 @@ const SecondPage = () => (
                     </pre>
                   </div>
                 </div>
-                <p>Congrats! You got your first graphene schema working!</p>
+                <p>Congrats! You have successfully set up your first GraphQL schema with Graphene.</p>
               </div>
             </div>
             <div className="go-buttons">
