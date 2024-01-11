@@ -6,13 +6,13 @@ import "./highlight.css";
 
 const SecondPage = () => (
   <div className="container docs-container">
-    <div className="docs-side-nav">
+    <div className="docs-sidebar">
       <div
         className="sphinxsidebar"
         role="navigation"
         aria-label="main navigation"
       >
-        <div className="sphinxsidebarwrapper">
+        <div className="sidebar-wrapper">
           <h3 className="callout">Table Of Contents</h3>
           <div className="sphinxsidebarwrapperlinks">
             <ul>
