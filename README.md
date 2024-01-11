@@ -7,13 +7,13 @@ Graphene docs are powered by [gatsby](https://github.com/gatsbyjs/gatsby).
 To run the docs locally, you have to execute
 
 ```bash
-yarn
+npm
 ```
 
 followed by
 
 ```bash
-yarn develop
+npm develop
 ```
 
 ## Build
@@ -21,7 +21,7 @@ yarn develop
 To build the docs in the `public` dir, just run:
 
 ```bash
-yarn build
+npm run build
 ```
 
 ## Playground (temporarily disabled)
