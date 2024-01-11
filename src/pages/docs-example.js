@@ -123,7 +123,7 @@ const SecondPage = () => (
                   </a>
                 </h2>
                 <div className="code bash highlight-default">
-                  <div className="highlight">
+                  <pre><code class="language-bash">
                     <pre>
                       <span />
                       <span className="n">yarn</span>{" "}
@@ -188,7 +188,7 @@ const SecondPage = () => (
                 </h2>
                 <p>Then we can start querying our schema:</p>
                 <div className="code typescript highlight-default">
-                  <div className="highlight">
+                  <pre><code class="language-typescript">
                     <pre>
                       <span />
                       <span className="n">var</span>{" "}
