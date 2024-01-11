@@ -221,7 +221,7 @@ const SecondPage = () => (
               </div>
             </div>
             <div className="go-buttons">
-              <a href="index.html" className="go-previous flat-button">
+              <a href="index.html" className="go-previous flat-button-bar">
                 Previous: NewPage
               </a>
               <a
